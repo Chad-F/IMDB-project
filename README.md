@@ -26,5 +26,7 @@ packages
 
 # Contact
 
-Chad Flood\n<chadflood3@gmail.com> 
+Chad Flood
+
+<chadflood3@gmail.com> 
 
