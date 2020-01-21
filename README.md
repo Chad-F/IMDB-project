@@ -11,6 +11,14 @@ IMDB is an online searchable database containing information on movies and tv sh
 
 The data was pulled from IMDB in December of 2019. As explained in the project, this skewed some of the 2019 results, but was factored in during the analysis. I plan to update the data sometime in mid 2020 to revaluate the data.
 
+# Data
+
+Here are the five data files used:
+- act_names_imdb.csv	
+- cast_crew_imdb.csv
+- directors_imdb.csv	
+- ratings_imdb.csv	
+- titles_imdb.csv
 
 
 # Technologies
