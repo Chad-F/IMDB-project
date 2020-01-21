@@ -20,6 +20,7 @@ Here are the five data files used:
 - ratings_imdb.csv	
 - titles_imdb.csv
 
+*Note: The film_project folder contains images used in the project*
 
 # Technologies
 
